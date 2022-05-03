@@ -18,4 +18,3 @@ export default function connectDb() {
   // return the connection to firestore
   return getFirestore();
 }
-
